@@ -9,7 +9,7 @@
 
   // 3) What is the difference between call and apply?
 
-      //Answer
+      //Answer this is a test
 
   // 4) What does .bind do?
 
